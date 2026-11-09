@@ -9,21 +9,21 @@ import somaticImg from "../assets/images/IMG_8011_websize.jpg";
 export default function Services() {
     const services = [
         {
-            id: 1,
-            title: "Reiki Energy Healing",
-            price: "$111",
-            img: reikiTableImg,
-            description:
-                "I offer a quiet and safe space where you are invited to deeply relax, reconnect, and realign. Each session begins with a fifteen-minute consultation where we explore your current life state and I intuitively tune into your energy. From there we step forward into a meditative state of presence, gently opening the pathways of your mind, body, and spirit as I channel life-force energy through Reiki. Guided by intuitive gentle touch and ancestral wisdom to support, restore, and release.",
-            calendly: "https://calendly.com/healing-aura888",
-        },
-        {
             id: 2,
             title: "Chakra Bracelet Workshop",
             price: "$44",
             img: chakraWorkshopImg,
             description:
                 "The Chakra Bracelet Workshop offers a welcoming, communal space for like-minded individuals on their healing journeys. You’ll receive foundational insight into how the chakra system functions on emotional and spiritual levels. Through guided reflection and shared storytelling, you create a personalized chakra bracelet, setting a clear intention for the chakra you wish to support and balance. Minimum 5 participants, max 10.",
+            calendly: "https://calendly.com/healing-aura888",
+        },
+        {
+            id: 1,
+            title: "Reiki Energy Healing",
+            price: "$111",
+            img: reikiTableImg,
+            description:
+                "I offer a quiet and safe space where you are invited to deeply relax, reconnect, and realign. Each session begins with a fifteen-minute consultation where we explore your current life state and I intuitively tune into your energy. From there we step forward into a meditative state of presence, gently opening the pathways of your mind, body, and spirit as I channel life-force energy through Reiki. Guided by intuitive gentle touch and ancestral wisdom to support, restore, and release.",
             calendly: "https://calendly.com/healing-aura888",
         },
         {
